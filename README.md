@@ -1,7 +1,7 @@
 
 # Website for Windmill-edu.com
 
-This is the project for the official website of 'windmill-edu.com'
+This is the project for the official website of `windmill-edu.com`
 
 
 ### Authors
