@@ -462,9 +462,9 @@ a:hover {
     margin: 0 auto
 }
 .probootstrap-hero .intro-text .probootstrap-subheading .btn {
-    padding: 20px 40px;
+    padding: 20px 55px;
     border-radius: 0;
-    margin-right: 10px;
+    margin-right: 5px;
     border: none /*首页第一个按钮边框*/
 }
 .probootstrap-hero .intro-text .probootstrap-subheading .btn:hover {
