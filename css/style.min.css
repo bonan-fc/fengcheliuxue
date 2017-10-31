@@ -28,9 +28,9 @@ html {
 }
 body {
     background: #fff;
-    color: #EA691F;
+    color: #d25e1b;
     line-height: 1.7;
-    font-size: 20px;
+    font-size: 16px;
     font-family: "Open Sans", Arial, sans-serif
 }
 ::selection {
@@ -54,12 +54,12 @@ p {
 a {
     -webkit-transition: .3s all;
     transition: .3s all;
-    color: #EA691F
+    color: #d25e1b
 }
 a:active,
 a:focus,
 a:hover {
-    color: #EA691F;
+    color: #d25e1b;
     text-decoration: none
 }
 .probootstrap-navbar {
@@ -197,7 +197,7 @@ a:hover {
 .probootstrap-navbar .dropdown>.dropdown-menu>li:active>a,
 .probootstrap-navbar .dropdown>.dropdown-menu>li:focus>a,
 .probootstrap-navbar .dropdown>.dropdown-menu>li:hover>a {
-    color: #EA691F;
+    color: #d25e1b;
     background: #fff;
     border-top: none
 }
@@ -222,7 +222,7 @@ a:hover {
 }
 .probootstrap-navbar .dropdown-menu {
     border: none;
-    background: #EA691F;
+    background: #d25e1b;
     border-radius: 0;
     -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, .15);
     box-shadow: 0 0 7px 0 rgba(0, 0, 0, .15);
@@ -251,7 +251,7 @@ a:hover {
 }
 @media screen and (max-width: 768px) {
     .probootstrap-navbar .navbar-brand {
-        color: #EA691F;
+        color: #d25e1b;
         line-height: 0;
         padding-left: 0
     }
@@ -307,8 +307,8 @@ a:hover {
     position: absolute;
     top: -20px;
     left: 40px;
-    border-color: #EA691F;
-    border-bottom-color: #EA691F;
+    border-color: #d25e1b;
+    border-bottom-color: #d25e1b;
     border-width: 10px;
     margin-left: -10px
 }
@@ -326,7 +326,7 @@ a:hover {
     background: 0 0
 }
 .probootstrap-navbar .navbar-nav.active>a {
-    color: #EA691F!important
+    color: #d25e1b!important
 }
 .probootstrap-navbar .dropdown-submenu {
     position: relative
@@ -392,7 +392,7 @@ a:hover {
 }
 .probootstrap-navbar.scrolled .navbar-brand {
     top: 30px;
-    color: #EA691F
+    color: #d25e1b
 }
 .probootstrap-navbar.scrolled .dropdown>a:before {
     color: rgba(0, 0, 0, .4)
@@ -404,7 +404,7 @@ a:hover {
     color: rgba(0, 0, 0, .7)!important
 }
 .probootstrap-navbar.scrolled .navbar-nav>li.active>a {
-    color: #EA691F!important /* 右上角列表 */
+    color: #d25e1b!important /* 右上角列表 */
 }
 .probootstrap-hero {
     background-color: #ccc;
@@ -416,7 +416,7 @@ a:hover {
 }
 @media screen and (max-width: 768px) {
     .probootstrap-navbar.scrolled .navbar-nav>li.active>a {
-        color: #EA691F!important /* 右上角列表 */
+        color: #d25e1b!important /* 右上角列表 */
     }
     .probootstrap-hero {
         height: inherit;
@@ -468,8 +468,8 @@ a:hover {
     border: none /*首页第一个按钮边框*/
 }
 .probootstrap-hero .intro-text .probootstrap-subheading .btn:hover {
-    background: #EA691F;
-    border-color: #EA691F
+    background: #d25e1b;
+    border-color: #d25e1b
 }
 @media screen and (max-width: 480px) {
     .probootstrap-navbar .dropdown-submenu:hover>.dropdown-menu {
@@ -508,7 +508,7 @@ a:hover {
     background: #E3E3E3
 }
 .probootstrap-section.probootstrap-cta {
-    background: #EA691F;
+    background: #d25e1b;
     color: #fff;
     padding: 3em 0
 }
@@ -525,7 +525,7 @@ a:hover {
 .probootstrap-footer {
     padding: 3em 0;
     position: relative;
-    background: #EA691F;
+    background: #d25e1b;
     color: #fff
 }
 .probootstrap-footer a {
@@ -546,7 +546,7 @@ a:hover {
     bottom: 0;
     width: 70px;
     height: 2px;
-    background: #EA691F;
+    background: #d25e1b;
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%)
@@ -583,7 +583,7 @@ a:hover {
     border: none
 }
 .probootstrap-pricing h2 {
-    font-size: 14px;
+    font-size: 30px;
     text-transform: uppercase;
     letter-spacing: .2em;
     color: #000;
@@ -607,9 +607,9 @@ a:hover {
     left: 0
 }
 .probootstrap-pricing .probootstrap-price strong {
-    font-size: 62px;
+    font-size: 40px;
     font-weight: 300;
-    color: #EA691F
+    color: #d25e1b
 }
 @media screen and (max-width: 768px) {
     .probootstrap-pricing .probootstrap-price strong {
@@ -648,7 +648,7 @@ a:hover {
     padding-left: 30px
 }
 .probootstrap-list li.probootstrap-check:before {
-    color: #EA691F;
+    color: #d25e1b;
     font-size: 16px;
     content: "\eb91"
 }
@@ -660,7 +660,7 @@ a:hover {
     font-weight: 400;
     position: absolute;
     top: .2em;
-    color: #EA691F;
+    color: #d25e1b;
     font-size: 20px;
     content: "\eb91"
 }
@@ -675,7 +675,7 @@ a:hover {
 .btn.btn-primary:active,
 .btn.btn-primary:focus,
 .btn.btn-primary:hover {
-    background: #EA691F
+    background: #d25e1b
 }
 .btn.btn-black {
     color: #fff;
@@ -684,7 +684,7 @@ a:hover {
 .btn.btn-black:active,
 .btn.btn-black:focus,
 .btn.btn-black:hover {
-    background: #EA691F
+    background: #d25e1b
 }
 .probootstrap-service-item {
     position: relative;
@@ -702,11 +702,11 @@ a:hover {
     display: block;
     font-size: 70px;
     margin-bottom: 50px;
-    color: #EA691F
+    color: #d25e1b
 }
 .probootstrap-service-item h2 {
     font-size: 24px;
-    color: #EA691F
+    color: #d25e1b
 }
 .probootstrap-testimonial {
     background: #fff;
@@ -725,10 +725,10 @@ a:hover {
     height: 120px
 }
 .probootstrap-testimonial .probootstrap-rate i {
-    color: #EA691F
+    color: #d25e1b
 }
 .probootstrap-testimonial .probootstrap-rate i.icon-star {
-    color: #EA691F
+    color: #d25e1b
 }
 .probootstrap-testimonial blockquote {
     padding: 0;
@@ -991,7 +991,7 @@ a:hover {
     color: #000!important
 }
 .text-primary {
-    color: #EA691F!important
+    color: #d25e1b!important
 }
 @media screen and (max-width: 768px) {
     .img-xs- {
