@@ -645,7 +645,8 @@ a:hover {
     top: .3em
 }
 .probootstrap-list li.probootstrap-check {
-    padding-left: 30px
+    padding-left: 30px;
+    color: #000
 }
 .probootstrap-list li.probootstrap-check:before {
     color: #d25e1b;
@@ -920,6 +921,9 @@ a:hover {
 }
 .mb0 {
     margin-bottom: 0!important
+}
+.mbb {
+    color: #000!important
 }
 .mb10 {
     margin-bottom: 10px!important
