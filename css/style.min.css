@@ -218,7 +218,9 @@ a:hover {
     color: #fff
 }
 .probootstrap-navbar .navbar-right .dropdown-menu {
-    right: auto
+    right: auto;
+    font-size: 25px
+
 }
 .probootstrap-navbar .dropdown-menu {
     border: none;
@@ -924,6 +926,9 @@ a:hover {
 }
 .mbb {
     color: #000!important
+}
+.mbw {
+    color: #fff!important
 }
 .mb10 {
     margin-bottom: 10px!important
