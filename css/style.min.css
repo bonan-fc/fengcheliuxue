@@ -738,7 +738,6 @@ a:hover {
     border: none
 }
 .probootstrap-testimonial blockquote p {
-    font-style: italic;
     color: #000
 }
 .probootstrap-form {
@@ -924,7 +923,7 @@ a:hover {
 .mb0 {
     margin-bottom: 0!important
 }
-.mbb {
+.primary {
     color: #000!important
 }
 .mbw {
